@@ -22,8 +22,12 @@ function Footer() {
                             <FaFacebook/>
                             <FaInstagram/>
                             <FaMailBulk/>
-                            <FaLinkedin/>
-                            <FaGithub/>
+                            <a href="https://www.linkedin.com/feed/">
+                                <FaLinkedin/>
+                            </a>
+                            <a href="https://github.com/DougRokakis">
+                                <FaGithub/>
+                            </a>
                         </div>
                         <hr />
                         <br />
